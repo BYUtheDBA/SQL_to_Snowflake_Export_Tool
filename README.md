@@ -1,4 +1,4 @@
-# SQL to Snowflake Export Utility
+# Microsoft SQL to Snowflake Export Utility
 Windows export utility to move the entire set of tables from MsSQL server to Snowflake
 
 * Tool requires Snowflake_ODBC_driver Win64 to be installed on the machine before it can run.
