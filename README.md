@@ -22,6 +22,6 @@ if COPY DATA is checked (checked by default)
 - Create an internal stage in the target Snowflake database & Upload the files
 - Copy the uploaded files into the proper table in snowflake.
 
-![Image of SQL to Snowflake tool](https://raw.githubusercontent.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/main/SQL_2_Snwoflake_Screenshot.png)
+![Image of SQL to Snowflake tool](https://raw.githubusercontent.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/main/SQL_2_Snowflake_Screenshot.png)
 
 
