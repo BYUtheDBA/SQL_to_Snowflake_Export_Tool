@@ -21,6 +21,8 @@ Windows export utility to automatically transfer entire set of tables from Micro
   - Enhanced logic to reduce redundant SQL create schema commands.
   - Fixed an issue with Column names with spaces.
   - Fixed an issue displaying status for tables with 0 records
+  
+  <hr>
 
 This utility will automatically move tables (in full) from a Ms SQL server to Snowflake. All you have to do is select a list of tables from SQL server and point to an existing Snowflake account & a database with proper user cridentials to create schemas & tables.
 
