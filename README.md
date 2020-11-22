@@ -11,6 +11,9 @@ Windows export utility to automatically transfer entire set of tables from Micro
 
 [Snowflake Win64 ODBC Driver Download](https://sfc-repo.snowflakecomputing.com/odbc/win64/latest/index.html)
 
+- <strong>11/22/2020 - Updated V7 with following changes</strong>
+  - Extraction Performance improvements for larger datasets.
+
 - <strong>11/21/2020 - Updated V6 with following changes</strong>
   - Added Windows Authentication support for SQL connection
   - Added max file size option for exporting chucks for large table exports (10, 25, 50, 75 & 100 MB)
