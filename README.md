@@ -2,7 +2,7 @@
 
 
 
-Windows export utility to move the entire set of tables from MsSQL server to Snowflake
+Windows export utility to automatically transfer entire set of tables from Microsoft SQL server to Snowflake
 
 * Tool requires Snowflake_ODBC_driver Win64 to be installed on the machine before it can run.
 
@@ -11,7 +11,7 @@ Windows export utility to move the entire set of tables from MsSQL server to Sno
 
 [Snowflake Win64 ODBC Driver Download](https://sfc-repo.snowflakecomputing.com/odbc/win64/latest/index.html)
 
-- 11/21/2020 - Updated V6 with following chagnes
+- <strong>11/21/2020 - Updated V6 with following changes</strong>
   - Added Windows Authentication support for SQL connection
   - Added max file size option for exporting chucks for large table exports (10, 25, 50, 75 & 100 MB)
   - Added Option to Enable/Disable client side file compression (gzip) prior to uploading to Snowflake
