@@ -1,4 +1,7 @@
 # WowMaker | Microsoft SQL to Snowflake Export Utility
+
+
+
 Windows export utility to move the entire set of tables from MsSQL server to Snowflake
 
 * Tool requires Snowflake_ODBC_driver Win64 to be installed on the machine before it can run.
@@ -7,6 +10,14 @@ Windows export utility to move the entire set of tables from MsSQL server to Sno
 
 
 [Snowflake Win64 ODBC Driver Download](https://sfc-repo.snowflakecomputing.com/odbc/win64/latest/index.html)
+
+- 11/21/2020 - Updated V6 with following chagnes
+  - Added Windows Authentication support for SQL connection
+  - Added max file size option for exporting chucks for large table exports (10, 25, 50, 75 & 100 MB)
+  - Added Option to Enable/Disable client side file compression (gzip) prior to uploading to Snowflake
+  - Enhanced logic to reduce redundant SQL create schema commands.
+  - Fixed an issue with Column names with spaces.
+  - Fixed an issue displaying status for tables with 0 records
 
 This utility will automatically move tables (in full) from a Ms SQL server to Snowflake. All you have to do is select a list of tables from SQL server and point to an existing Snowflake account & a database with proper user cridentials to create schemas & tables.
 
