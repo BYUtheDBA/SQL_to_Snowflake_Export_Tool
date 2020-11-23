@@ -48,6 +48,6 @@ This application is not associated with Snowflake Inc. & not a supported product
 <br>
 <br>
 
-![Image of SQL to Snowflake tool](https://raw.githubusercontent.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/main/SQL_2_Snowflake_Screenshot.png)
+![Image of SQL to Snowflake tool](https://raw.githubusercontent.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/main/SQL_2_Snowflake_Screenshot3.png)
 
 
