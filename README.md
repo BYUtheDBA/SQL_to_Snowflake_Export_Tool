@@ -47,7 +47,12 @@ This application is not associated with Snowflake Inc. & not a supported product
 
 <br>
 <br>
+# Microsoft SQL Server
+![Image of SQL to Snowflake tool](https://raw.githubusercontent.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/main/SQL_2_Snowflake_Screenshot1.png)
 
+<br>
+<br>
+# Oracle DB
 ![Image of SQL to Snowflake tool](https://raw.githubusercontent.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/main/SQL_2_Snowflake_Screenshot3.png)
 
 
