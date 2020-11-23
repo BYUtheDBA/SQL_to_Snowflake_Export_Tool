@@ -1,7 +1,7 @@
 # WowMaker | Microsoft SQL to Snowflake Export Utility
 
 
-
+- <strong>11/23/2020 - Updated V8 - Added Oracle Export option (beta)</strong>
 
 - <strong>11/22/2020 - Updated V7 with following changes</strong>
   - Extraction Performance improvements for larger datasets.
@@ -24,6 +24,8 @@ Windows export utility to automatically transfer entire set of tables from Micro
 
 
 [Snowflake Win64 ODBC Driver Download](https://sfc-repo.snowflakecomputing.com/odbc/win64/latest/index.html)
+
+[Oracle OLEDB 64-bit Driver Download - (optional for Oracle connections)](https://www.oracle.com/database/technologies/odac-downloads.html)
 
 This utility will automatically move tables (in full) from a Ms SQL server to Snowflake. All you have to do is select a list of tables from SQL server and point to an existing Snowflake account & a database with proper user cridentials to create schemas & tables.
 
