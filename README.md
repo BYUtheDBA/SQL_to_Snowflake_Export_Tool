@@ -53,6 +53,7 @@ This application is not associated with Snowflake Inc. & not a supported product
 
 <br>
 <br>
+
 # Export Oracle
 
 ![Image of Oracle to Snowflake tool](https://raw.githubusercontent.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/main/SQL_2_Snowflake_Screenshot_O.png)
