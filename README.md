@@ -1,7 +1,7 @@
 # WowMaker | Microsoft SQL to Snowflake Export Utility
 
 
-- <strong>11/23/2020 - Updated V8 - Added Oracle Export option (beta)</strong>
+- <strong>11/23/2020 - Updated V8 - Added ORACLE Schema & Data Export option (beta)</strong>
 
 - <strong>11/22/2020 - Updated V7 with following changes</strong>
   - Extraction Performance improvements for larger datasets.
