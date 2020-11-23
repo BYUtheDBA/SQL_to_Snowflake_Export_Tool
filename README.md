@@ -40,7 +40,7 @@ if COPY DATA is checked (checked by default)
 - Copy the uploaded files into the proper table in snowflake.
 
 
-<strong>This product is a personal project created for testing purposes only & provided as is without any warranty. 
+<strong>This product is a personal project & provided as is without any warranty. 
 This application is not associated with Snowflake Inc. & not a supported product. Please use it at your own risk.</strong>
 
 <br>
