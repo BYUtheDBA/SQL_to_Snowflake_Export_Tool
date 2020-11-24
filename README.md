@@ -21,12 +21,13 @@ Windows export utility to automatically transfer entire set of tables from Micro
 
 * Tool requires Snowflake_ODBC_driver Win64 to be installed on the machine before it can run.
 
-[Download SQL_to_Snowflake Installer](https://github.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/raw/main/MsSQL_To_Snowflake.zip)
+[1- Download SQL_to_Snowflake Installer](https://github.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/raw/main/MsSQL_To_Snowflake.zip)
 
+2- Unzip & install using Setup.exe
 
-[Snowflake Win64 ODBC Driver Download](https://sfc-repo.snowflakecomputing.com/odbc/win64/latest/index.html)
+[3- Download & Install Snowflake Win64 ODBC Driver](https://sfc-repo.snowflakecomputing.com/odbc/win64/latest/index.html)
 
-[Oracle OLEDB 64-bit Driver Download - (optional for Oracle connections)](https://www.oracle.com/database/technologies/odac-downloads.html)
+[4- (optional for Oracle) Download & Install Oracle OLEDB 64-bit Driver)](https://www.oracle.com/database/technologies/odac-downloads.html)
 
 This utility will automatically move tables (in full) from a Ms SQL server to Snowflake. All you have to do is select a list of tables from SQL server and point to an existing Snowflake account & a database with proper user cridentials to create schemas & tables.
 
