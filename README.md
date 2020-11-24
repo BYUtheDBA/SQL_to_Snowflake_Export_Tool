@@ -49,6 +49,8 @@ This application is not associated with Snowflake Inc. & not a supported product
 
 <hr>
 
+# Version History
+
 - <strong>11/23/2020 - Updated V8 - Added ORACLE Schema & Data Export option (beta)</strong>
   - Extraction Performance improvements for larger datasets.
   - Modified RECORD_SEPERATOR to HEX 0x02 to reduce export file size.
