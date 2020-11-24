@@ -24,10 +24,10 @@ The tool will do the following for each table:
 - Auto map proper datatypes.
 - Perform date type conversion
 
-if COPY DATA is checked (checked by default)
-- Export the data into files in 10MB batches into a temp folder.
-- Create an internal stage in the target Snowflake database & Upload the files
-- Copy the uploaded files into the proper table in snowflake.
+  if COPY DATA is checked (checked by default)
+  - Export the data into a temp folder as flat files broken in to chunks (10MB - 100MB).
+  - Create an internal stage in the target Snowflake database & Upload the files
+  - Copy the uploaded files into the proper table in snowflake.
 
 <br><br>
 
