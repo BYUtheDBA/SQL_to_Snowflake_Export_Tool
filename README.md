@@ -47,8 +47,6 @@ This application is not associated with Snowflake Inc. & not a supported product
 ![Image of Oracle to Snowflake tool](https://raw.githubusercontent.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/main/SQL_2_Snowflake_Screenshot_O.png)
 
 
-<hr>
-
 # Version History
 
 - <strong>11/23/2020 - Updated V8 - Added ORACLE Schema & Data Export option (beta)</strong>
