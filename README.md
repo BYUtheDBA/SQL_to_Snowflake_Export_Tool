@@ -29,6 +29,7 @@ if COPY DATA is checked (checked by default)
 - Create an internal stage in the target Snowflake database & Upload the files
 - Copy the uploaded files into the proper table in snowflake.
 
+<br><br>
 
 <strong>This product is a personal project & provided as is without any warranty. 
 This application is not associated with Snowflake Inc. & not a supported product. Please use it at your own risk.</strong>
