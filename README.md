@@ -1,21 +1,7 @@
 # WowMaker | Microsoft SQL to Snowflake Export Utility
 
 
-- <strong>11/23/2020 - Updated V8 - Added ORACLE Schema & Data Export option (beta)</strong>
-  - Extraction Performance improvements for larger datasets.
-  - Modified RECORD_SEPERATOR to HEX 0x02 to reduce export file size.
-- <strong>11/22/2020 - Updated V7 with following changes</strong>
-  - Extraction Performance improvements for larger datasets.
 
-- <strong>11/21/2020 - Updated V6 with following changes</strong>
-  - Added Windows Authentication support for SQL connection
-  - Added max file size option for exporting chucks for large table exports (10, 25, 50, 75 & 100 MB)
-  - Added Option to Enable/Disable client side file compression (gzip) prior to uploading to Snowflake
-  - Enhanced logic to reduce redundant SQL create schema commands.
-  - Fixed an issue with Column names with spaces.
-  - Fixed an issue displaying status for tables with 0 records
-  
-  <hr>
 
 Windows export utility to automatically transfer entire set of tables from Microsoft SQL or Oracle database servers to Snowflake. it will create Schema, Tables & transfer data with proper data type mapping and conversions for date & binary formats.
 
@@ -61,3 +47,19 @@ This application is not associated with Snowflake Inc. & not a supported product
 ![Image of Oracle to Snowflake tool](https://raw.githubusercontent.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/main/SQL_2_Snowflake_Screenshot_O.png)
 
 
+<hr>
+- <strong>11/23/2020 - Updated V8 - Added ORACLE Schema & Data Export option (beta)</strong>
+  - Extraction Performance improvements for larger datasets.
+  - Modified RECORD_SEPERATOR to HEX 0x02 to reduce export file size.
+- <strong>11/22/2020 - Updated V7 with following changes</strong>
+  - Extraction Performance improvements for larger datasets.
+
+- <strong>11/21/2020 - Updated V6 with following changes</strong>
+  - Added Windows Authentication support for SQL connection
+  - Added max file size option for exporting chucks for large table exports (10, 25, 50, 75 & 100 MB)
+  - Added Option to Enable/Disable client side file compression (gzip) prior to uploading to Snowflake
+  - Enhanced logic to reduce redundant SQL create schema commands.
+  - Fixed an issue with Column names with spaces.
+  - Fixed an issue displaying status for tables with 0 records
+  
+  
