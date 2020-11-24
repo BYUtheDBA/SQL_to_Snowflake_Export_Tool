@@ -2,7 +2,8 @@
 
 
 - <strong>11/23/2020 - Updated V8 - Added ORACLE Schema & Data Export option (beta)</strong>
-
+  - Extraction Performance improvements for larger datasets.
+  - Modified RECORD_SEPERATOR to HEX 0x02 to reduce export file size.
 - <strong>11/22/2020 - Updated V7 with following changes</strong>
   - Extraction Performance improvements for larger datasets.
 
