@@ -9,7 +9,7 @@ Windows export utility to automatically transfer entire set of tables from Micro
 
 [1- Download SQL_to_Snowflake Installer](https://github.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/raw/main/MsSQL_To_Snowflake.zip)
 
-2- Unzip & install using Setup.exe
+2- Un8zip & install using Setup.exe
 
 [3- Download & Install Snowflake Win64 ODBC Driver](https://sfc-repo.snowflakecomputing.com/odbc/win64/latest/index.html)
 
@@ -23,7 +23,7 @@ The tool will do the following for each table:
 - Generate a DDL & Create the table in Snowflake.
 - Auto map proper datatypes.
 - Perform date type conversion
-- if COPY DATA is checked (checked by default)
+- if **EXPORT DATA** is checked (checked by default)
   - Export the data into a temp folder as flat files broken in to chunks (10MB - 100MB).
   - Create an internal stage in the target Snowflake database & Upload the files
   - Copy the uploaded files into the proper table in snowflake.
