@@ -17,7 +17,7 @@
   
   <hr>
 
-Windows export utility to automatically transfer entire set of tables from Microsoft SQL server to Snowflake
+Windows export utility to automatically transfer entire set of tables from Microsoft SQL or Oracle database servers to Snowflake. it will create Schema, Tables & transfer data with proper data type mapping and conversions for date & binary formats.
 
 * Tool requires Snowflake_ODBC_driver Win64 to be installed on the machine before it can run.
 
