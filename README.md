@@ -15,7 +15,7 @@ Windows export utility to automatically transfer entire set of tables from Micro
 
 [4- (optional for Oracle) Download & Install Oracle OLEDB 64-bit Driver)](https://www.oracle.com/database/technologies/odac-downloads.html)
 
-This utility will automatically move tables (in full) from a Ms SQL server to Snowflake. All you have to do is select a list of tables from SQL server and point to an existing Snowflake account & a database with proper user cridentials to create schemas & tables.
+This utility will automatically move tables (in full) from a source database (MsSQL or Oracle) to Snowflake. Just select a list of tables from source db and point to an existing Snowflake account & a database with proper user cridentials to start transfering schemas, tables & data.
 
 
 
@@ -46,6 +46,8 @@ This application is not associated with Snowflake Inc. & not a supported product
 
 ![Image of Oracle to Snowflake tool](https://raw.githubusercontent.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/main/SQL_2_Snowflake_Screenshot_O.png)
 
+
+<br><br>
 
 # Version History
 
